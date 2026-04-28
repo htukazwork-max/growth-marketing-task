@@ -1,5 +1,3 @@
-# growth-marketing-task
-Portfolio project for growth marketing application
 # Growth Marketing Portfolio Task
 
 ## Candidate
