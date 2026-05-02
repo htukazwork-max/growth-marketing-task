@@ -29,6 +29,7 @@ Why relevant: Founder of a B2B LinkedIn content agency focused on organic Linked
 ### 5. André Topini
 Link: https://www.linkedin.com/in/andretopini/
 Why relevant: Works on founder-led go-to-market content engines for B2B SaaS, with a focus on turning content into a measurable pipeline.
+
 ### 6. Peter Henry
 Link: https://www.linkedin.com/in/peter-henry-/  
 Why relevant: B2B SaaS content strategist and LinkedIn ghostwriter for founders, focused on messaging, positioning, and founder-led growth.
