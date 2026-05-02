@@ -29,3 +29,22 @@ Why relevant: Founder of a B2B LinkedIn content agency focused on organic Linked
 ### 5. André Topini
 Link: https://www.linkedin.com/in/andretopini/
 Why relevant: Works on founder-led go-to-market content engines for B2B SaaS, with focus on turning content into measurable pipeline.
+### 6. Peter Henry
+Link: https://www.linkedin.com/in/peter-henry-/  
+Why relevant: B2B SaaS content strategist and LinkedIn ghostwriter for founders, focused on messaging, positioning, and founder-led growth.
+
+### 7. Nathan Roy
+Link: https://www.linkedin.com/in/nathanmroy/  
+Why relevant: Builds founder-led content engines for B2B SaaS, with focus on inbound leads and LinkedIn-driven growth.
+
+### 8. Issy Riley
+Link: https://www.linkedin.com/in/issy-riley-23a7822a0/  
+Why relevant: LinkedIn growth strategist for DevOps and cybersecurity SaaS, focused on founder-led content and turning complex B2B SaaS products into understandable content.
+
+### 9. Adam Robinson
+Link: https://www.linkedin.com/in/retentionadam/
+Why relevant: B2B SaaS founder and CEO of Retention.com and RB2B. Strong practitioner example of founder-led LinkedIn content used to build visibility, trust, and pipeline for SaaS products.
+
+### 10. Frank Husmann
+Link: https://www.linkedin.com/in/frankhusmann/  
+Why relevant: B2B SaaS marketer who analyzes LinkedIn authority marketing and SaaS founder visibility, including research on LinkedIn content patterns from SaaS founders.
