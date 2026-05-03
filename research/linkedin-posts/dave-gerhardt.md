@@ -39,3 +39,9 @@ Topic: AI-driven marketing at Ramp
 Short summary: Dave highlights how Ramp is building an AI-focused marketing approach. This is relevant to B2B SaaS because it shows how modern SaaS companies are using AI to improve marketing execution, speed, and differentiation.
 
 Observed pattern: Uses a recognizable SaaS company example to make the post feel concrete and credible. The content connects a current trend, AI, with practical marketing execution, making it attractive for a B2B audience.
+
+
+## Initial Observations
+- Dave’s content often uses recognizable B2B/SaaS examples, numbers, and market insights to build credibility.
+- His posts connect marketing to business outcomes such as customer retention, leadership concerns, and AI-driven execution.
+- The content style is practical and executive-friendly, which makes it useful for senior B2B marketing audiences.
