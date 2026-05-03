@@ -44,6 +44,7 @@ Why relevant: LinkedIn growth strategist for DevOps and cybersecurity SaaS, focu
 
 ### 9. Adam Robinson
 Link: https://www.linkedin.com/in/retentionadam/
+
 Why relevant: B2B SaaS founder and CEO of Retention.com and RB2B. Strong practitioner example of founder-led LinkedIn content used to build visibility, trust, and pipeline for SaaS products.
 
 ### 10. Frank Husmann
