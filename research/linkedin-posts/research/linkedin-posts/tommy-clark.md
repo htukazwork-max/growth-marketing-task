@@ -40,3 +40,9 @@ Topic: How to land and keep a job as a modern marketer
 Short summary: Tommy shares advice about how marketers can position themselves and stay valuable in the current market. This fits the research because it shows how marketing content can speak directly to audience pain points and career anxieties.
 
 Observed pattern: Uses a highly relevant audience problem as the hook. The post likely works because it is practical, specific to marketers, and connected to real professional pressure.
+
+
+## Initial Observations
+- Tommy’s content mixes tactical marketing advice with personality-driven and audience-building posts.
+- His posts often speak directly to marketers’ current concerns, such as content systems, creativity, and career relevance.
+- Compared with more formal B2B content, his style feels more native to LinkedIn: conversational, human, and easy to engage with.
