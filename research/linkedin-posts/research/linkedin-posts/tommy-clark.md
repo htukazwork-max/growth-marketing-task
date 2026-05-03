@@ -30,3 +30,13 @@ Topic: Fiction recommendations for marketers
 Short summary: Tommy shares fiction recommendations for marketers, connecting creative input and storytelling with better marketing thinking.
 
 Observed pattern: Uses a personal/taste-based post to build authority beyond tactical advice. This type of content helps make the creator feel more human and memorable, while still staying relevant to marketers.
+
+
+### Post 3
+Link: https://www.linkedin.com/posts/tclarkmedia_how-to-actually-land-and-keep-a-job-as-activity-7454914889279643648-OXY9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNJFfgBYpIun2ybNlj_PCxroVL8y-ahZic
+
+Topic: How to land and keep a job as a modern marketer
+
+Short summary: Tommy shares advice about how marketers can position themselves and stay valuable in the current market. This fits the research because it shows how marketing content can speak directly to audience pain points and career anxieties.
+
+Observed pattern: Uses a highly relevant audience problem as the hook. The post likely works because it is practical, specific to marketers, and connected to real professional pressure.
