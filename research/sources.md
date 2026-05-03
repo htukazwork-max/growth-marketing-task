@@ -50,3 +50,6 @@ Why relevant: B2B SaaS founder and CEO of Retention.com and RB2B. Strong practit
 ### 10. Frank Husmann
 Link: https://www.linkedin.com/in/frankhusmann/  
 Why relevant: B2B SaaS marketer who analyzes LinkedIn authority marketing and SaaS founder visibility, including research on LinkedIn content patterns from SaaS founders.
+
+## Collection Note
+For this stage, I manually collected public LinkedIn posts and organized them by expert. I did not use an API because this workflow is new to me, and I wanted to focus on accuracy, relevance, and clear organization first.
