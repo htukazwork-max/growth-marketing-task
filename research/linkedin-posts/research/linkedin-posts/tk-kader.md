@@ -39,3 +39,9 @@ Topic: CEO clarity and business strategy
 Short summary: TK focuses on a key strategic question that many CEOs struggle to answer. This is relevant to B2B SaaS because clear positioning, strategy, and go-to-market focus are essential for growth.
 
 Observed pattern: Uses a direct challenge to the target audience. The post works because it creates urgency and makes CEOs/founders question whether their current strategy is clear enough.
+
+
+## Initial Observations
+- TK’s content often speaks directly to founders and CEOs, using strategic tension as the hook.
+- His posts frequently use frameworks, sharp questions, and SaaS/AI growth angles to create authority.
+- The content is less “social media tips” and more founder-level go-to-market thinking, which makes it valuable for B2B SaaS audiences.
