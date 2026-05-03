@@ -30,3 +30,12 @@ Topic: 5-point AI/SaaS growth strategy guide
 Short summary: TK shares a growth strategy guide for AI/SaaS companies, making this highly relevant to B2B SaaS go-to-market and founder-led content strategy.
 
 Observed pattern: Uses a clear numbered framework, which makes the content easier to scan, save, and apply. The post positions TK as a strategic advisor for SaaS founders by offering structured guidance rather than generic advice.
+
+
+### Post 3
+Link: https://www.linkedin.com/posts/tkkader_most-ceos-cant-answer-one-question-is-your-activity-7453057738810511360-m4R8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNJFfgBYpIun2ybNlj_PCxroVL8y-ahZic
+
+Topic: CEO clarity and business strategy
+Short summary: TK focuses on a key strategic question that many CEOs struggle to answer. This is relevant to B2B SaaS because clear positioning, strategy, and go-to-market focus are essential for growth.
+
+Observed pattern: Uses a direct challenge to the target audience. The post works because it creates urgency and makes CEOs/founders question whether their current strategy is clear enough.
