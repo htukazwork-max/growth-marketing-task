@@ -29,3 +29,13 @@ Topic: Marketing playbook for customer retention
 Short summary: Dave shares a marketing perspective on keeping customers, which is especially relevant for B2B SaaS companies where retention, expansion, and long-term trust are central to growth.
 
 Observed pattern: Connects marketing to business outcomes beyond acquisition. The post likely works because it frames marketing as part of the full customer lifecycle, not only lead generation.
+
+
+### Post 3
+Link: https://www.linkedin.com/posts/davegerhardt_how-ramp-is-building-an-ai-pilled-marketing-activity-7450494478366318592-Blom?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNJFfgBYpIun2ybNlj_PCxroVL8y-ahZic
+
+Topic: AI-driven marketing at Ramp
+
+Short summary: Dave highlights how Ramp is building an AI-focused marketing approach. This is relevant to B2B SaaS because it shows how modern SaaS companies are using AI to improve marketing execution, speed, and differentiation.
+
+Observed pattern: Uses a recognizable SaaS company example to make the post feel concrete and credible. The content connects a current trend, AI, with practical marketing execution, making it attractive for a B2B audience.
