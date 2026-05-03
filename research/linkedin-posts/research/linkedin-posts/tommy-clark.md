@@ -22,3 +22,11 @@ Short summary: Tommy uses a meme-style post to communicate the idea behind Compo
 Observed pattern: Uses humor and a simple visual format to make a content strategy concept easier to understand. This shows how B2B SaaS/founder-led content does not always need to be formal; it can use native LinkedIn formats to increase attention.
 
 
+### Post 2
+Link: https://www.linkedin.com/posts/tclarkmedia_fiction-recommendations-for-marketers-activity-7455638997898293248-A5t2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNJFfgBYpIun2ybNlj_PCxroVL8y-ahZic
+
+Topic: Fiction recommendations for marketers
+
+Short summary: Tommy shares fiction recommendations for marketers, connecting creative input and storytelling with better marketing thinking.
+
+Observed pattern: Uses a personal/taste-based post to build authority beyond tactical advice. This type of content helps make the creator feel more human and memorable, while still staying relevant to marketers.
