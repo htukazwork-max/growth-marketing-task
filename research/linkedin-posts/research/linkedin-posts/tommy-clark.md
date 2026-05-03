@@ -1,0 +1,24 @@
+# Tommy Clark — LinkedIn Content Notes
+
+## Expert
+Tommy Clark
+
+## Profile
+https://www.linkedin.com/in/tclarkmedia/
+
+## Why Selected
+Tommy Clark focuses on founder-led content and LinkedIn content strategy for B2B SaaS, especially how companies can use organic content to grow audience and generate leads.
+
+## Collected Content
+
+
+### Post 1
+Link: https://www.linkedin.com/posts/tclarkmedia_april-compound-content-studio-in-a-meme-activity-7455957459397128192-9Q7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNJFfgBYpIun2ybNlj_PCxroVL8y-ahZic
+
+Topic: Compound Content Studio/content system positioning
+
+Short summary: Tommy uses a meme-style post to communicate the idea behind Compound Content Studio and make his content work feel more memorable and shareable.
+
+Observed pattern: Uses humor and a simple visual format to make a content strategy concept easier to understand. This shows how B2B SaaS/founder-led content does not always need to be formal; it can use native LinkedIn formats to increase attention.
+
+
